@@ -80,7 +80,7 @@ food-del/
 
 Note -> Currently only Cash on delivery  payement method is working , I am still working on another method of payment.
 
-# Thank You For Visiting My Web Application
+# Thank You For Visiting My Web Application.
 
 
 
