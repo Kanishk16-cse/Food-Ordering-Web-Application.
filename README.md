@@ -16,7 +16,7 @@ food-del/
 | Frontend | React.js, CSS, Context API             |
 | Admin    | React.js, CSS, Vite                    |
 | Backend  | Node.js, Express.js, MongoDB, Mongoose |
-| Tools    | Vite, npm, ESLint                      |
+| Tools    | Vite, npm                      |
 
 
 # ⚙️ Features 
