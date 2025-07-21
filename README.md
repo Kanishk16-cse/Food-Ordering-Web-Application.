@@ -55,7 +55,8 @@ food-del/
 <img width="1811" height="698" alt="Screenshot 2025-07-21 204534" src="https://github.com/user-attachments/assets/b91384e7-60f8-47b7-b36d-7f9e1be16bc7" />
 
 ### Order Status.
-<img width="770" height="421" alt="Screenshot 2025-07-21 204554" src="https://github.com/user-attachments/assets/f1e730a8-504c-4575-ba18-e65569237f90" />
+<img width="1797" height="870" alt="Screenshot 2025-07-21 204616" src="https://github.com/user-attachments/assets/7ba411b2-11fe-45ac-af4a-d3b9a7161be2" />
+
 
 
 ## User Page
